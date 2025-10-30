@@ -29,7 +29,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Systems Administrator & Deployement",
     summary:
       "System Administrator based in Berlin, Germany. I specialize in building and maintaining server infrastructure, architecture and Linux Environments",
-    email: "example@email.com",
+    email: "hello@bunnxr.com",
   },
   experience: [
     {
