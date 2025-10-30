@@ -65,7 +65,7 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "AHK Scripts",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      summary: "Written AHK Scripts which help automating tasks. Ease of Use to the user. And overall improvement in daily workflows in Windows.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/ahk.png",
