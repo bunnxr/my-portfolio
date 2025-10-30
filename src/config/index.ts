@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Kripesh Badholiya",
     specialty: "Systems Administrator & Deployement",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "System Administrator based in Berlin, Germany. I specialize in building and maintaining server infrastructure, architecture and Linux Environments",
     email: "example@email.com",
   },
   experience: [
