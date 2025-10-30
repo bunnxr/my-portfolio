@@ -1,10 +1,10 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Kripesh Badholiya — System Administrator",
+  author: "bunnxr",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "System Administrator based in Berlin, Germany. I specialize in building and maintaining server infrastructure, architecture and Linux Environments",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
