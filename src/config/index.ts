@@ -65,9 +65,8 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "AHK Scripts",
-      summary: "Written AHK Scripts which help automating tasks. Ease of Use to the user. And overall improvement in daily workflows in Windows.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      summary: "Have written AHK Scripts which help automating tasks. Ease of Use to the user. And overall improvement in daily workflows in Windows.",
+      linkSource: "https://github.com/bunnxr/autohotkey-repo",
       image: "/ahk.png",
     },
     {
